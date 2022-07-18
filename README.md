@@ -175,3 +175,7 @@ Ta sẽ thực hiện các phép toán sau: (Lưu ý dây là máy tính dơn gi
 - 1234 / 134 \* 12345 / 5 = 9.2089 \* 12345 / 5 = 113684.55 / 5 = 22736.91
 
 [Video test](https://www.youtube.com/watch?v=hODRr9_rAOk)
+
+## Nâng cấp có thể đạt được
+
+- Ta có thể thêm các ngoặc và tăng độ ưu tiên lên. Và lúc đó ta có được bài toán RPN (Reverse Poland Notation). Lúc này ta có thể giải bài toán bằng stack, hoặc sử dụng các hàm thư viện.
