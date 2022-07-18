@@ -1,6 +1,6 @@
 # A Simple Calculator
 
-![](picture1.png)
+<img src="picture1.png" alt="drawing" width="200"/>
 
 ## Ý tưởng
 
@@ -173,3 +173,5 @@ Ta sẽ thực hiện các phép toán sau: (Lưu ý dây là máy tính dơn gi
 
 - 4 / 0 = Infinity
 - 1234 / 134 \* 12345 / 5 = 9.2089 \* 12345 / 5 = 113684.55 / 5 = 22736.91
+
+[Video test](https://www.youtube.com/watch?v=hODRr9_rAOk)
