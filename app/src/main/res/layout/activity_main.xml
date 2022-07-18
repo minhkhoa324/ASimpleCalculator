@@ -125,7 +125,7 @@
         android:id="@+id/number7"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/number6"
+        android:text="@string/number7"
         android:textSize="50sp"
         android:backgroundTint="@color/button3"
         app:layout_constraintBottom_toBottomOf="parent"
